@@ -9,6 +9,6 @@
 	- Rastreia encomendas e mostra o seu status.
 
 #### 4. **Exemplo de funcionamento**
-	<img src="<img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">" alt="Pingou! GIF">
+	![](https://github.com/Marcel0Henrique/pingou_app/blob/main/pingou.gif)
 #### 5. **Realize seu teste**
 [Baixe o app](https://github.com/Marcel0Henrique/pingou_app/releases/download/release/Pingou.apk "Baixe o app")
