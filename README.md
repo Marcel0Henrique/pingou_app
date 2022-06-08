@@ -9,7 +9,8 @@
 	- Rastreia encomendas e mostra o seu status.
 
 #### 4. **Exemplo de funcionamento**
-![pingou](https://user-images.githubusercontent.com/41083876/172518715-d192185e-5454-4700-9bd1-fb0c91a8f676.gif)
+![pingou](https://user-images.githubusercontent.com/41083876/172519474-41dbf81f-c853-4375-8d73-7e8a3aaf3f1e.gif)
+
 
 
 #### 5. **Realize seu teste**
