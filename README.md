@@ -9,7 +9,8 @@
 	- Rastreia encomendas e mostra o seu status.
 
 #### 4. **Exemplo de funcionamento**
-	![pingou](https://user-images.githubusercontent.com/41083876/172518283-3fd523cc-4f73-44a1-bc4e-e37e2791e060.gif)
+![pingou](https://user-images.githubusercontent.com/41083876/172518715-d192185e-5454-4700-9bd1-fb0c91a8f676.gif)
+
 
 #### 5. **Realize seu teste**
 [Baixe o app](https://github.com/Marcel0Henrique/pingou_app/releases/download/release/Pingou.apk "Baixe o app")
