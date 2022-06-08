@@ -1,16 +1,9 @@
-# pingou_app
+# 🚛Pingou!
 
-A new Flutter project.
+1. **Sobre**
+	- Foi idealizado como um projeto de estudo para portfolio utilizando o framework Flutter para desenvolvimento mobile, pois isso possiveis erros podem aparecer.
+2. **O que é ?**
+	- É um sistema de rastreio de encomendas que utiliza a API do [Link & Track](https://linketrack.com/ "Linke & Track")
+3. **O que faz ?**
+	- Rastreia encomendas e mostra o seu status.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
